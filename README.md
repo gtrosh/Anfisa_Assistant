@@ -1,0 +1,1 @@
+This is a study project: an interactive web application on Django (virtual assistant called Anfisa). Users can tell Anfisa the name of their friend (as saved in a data base) and an ice cream flavour, and Anfisa will find their city, check the weather and recommend what to do with the icecream - eat that very day or save for later, when the weather is warmer.
